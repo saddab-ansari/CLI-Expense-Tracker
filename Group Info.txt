@@ -1,0 +1,12 @@
+This is a project based learning outcome of our group.
+
+the Project was built on the problem statement :
+Design and Implement an Expense Tracker using C Language Develop a comprehensive expense tracker application that records daily expenses, categorizes them, generates detailed monthly and annual reports, and provides budget management features for users to track and optimize
+their spending habits.
+
+Group Members : 
+
+B25IT141 : Abhay Padavalkar
+B25IT142 : Saddab Ansari
+B25IT149 : Ishan Desai
+B25IT161 : Ankit Kharche
