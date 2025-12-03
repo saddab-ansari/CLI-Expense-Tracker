@@ -1,3 +1,19 @@
+/* 
+Group : 
+B25IT1141 : Abhay Padavalkar
+B25IT1142 : Saddab Ansari
+B25IT1149 : Ishan Desai
+B25IT1161 : Ankit Kharche
+
+Problem Statement :
+Design and Implement an Expense Tracker using C Language
+Develop a comprehensive expense tracker application that records daily expenses, 
+categorizes them, generates detailed monthly and annual reports, 
+and provides budget management features for users to track and optimize
+their spending habits.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
