@@ -1,4 +1,5 @@
 Personal Expense Tracker System ------------------------------------------------------------------------------
+
 Project Overview
 A comprehensive console-based application developed in C Language to help users track their daily spending. 
 This project utilizes File Handling to ensure data persists even after the program is closed. 
