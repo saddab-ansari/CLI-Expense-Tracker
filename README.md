@@ -5,6 +5,7 @@ This project utilizes File Handling to ensure data persists even after the progr
 It allows users to record expenses, set monthly budgets, and generate detailed reports.
 
 Key Features -------------------------------------------------------------------------------------------------
+
 Add Expenses: Record ID, Date, Amount, Category, and Notes.
 
 View History: Display all records in a clean, tabular format.
@@ -16,6 +17,7 @@ Reports: Generate total spending calculations for specific Months or Years.
 Data Persistence: Automatically saves data to text files (expenses.txt).
 
 Technical Details-----------------------------------------------------------------------------------------
+
 Language: C (Standard Library)
 
 Concepts Used:
@@ -44,6 +46,7 @@ expense.c - The main source code.
 expenses.txt - Automatically created; stores expense history.
 
 Author --------------------------------------------------------------------------------------------------
+
 Name: Saddab Sabir Ansari
 
 Course: EEL Final Project : Semester 1
