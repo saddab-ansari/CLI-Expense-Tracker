@@ -37,4 +37,4 @@ A comprehensive console-based application developed in **C** to help users track
 *Course:* EEL Final Project (Semester 1) - December 2025  
 
 **Connect with me:**   
-💻 [GitHub](https://github.com/saddab-ansari) | 💼 [LinkedIn](www.linkedin.com/in/saddab-ansari) | 💻 [Email](saddabansari254@gmail.com))
+💻 [GitHub](https://github.com/saddab-ansari) | 💼 [LinkedIn](www.linkedin.com/in/saddab-ansari) | 💻 Email - Saddabansari254@gmail.com
