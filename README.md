@@ -25,4 +25,4 @@ A comprehensive console-based application developed in **C** to help users track
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone [https://github.com/saddab-ansari/CLI-Expense-Tracker.git](https://github.com/saddab-ansari/CLI-Expense-Tracker.git)
