@@ -21,8 +21,20 @@ A comprehensive console-based application developed in **C** to help users track
   * **String Handling:** For input formatting and data validation.
   * **Control Structures:** Extensive use of loops and switch-case menus for seamless navigation.
 
-## 🚀 How to Run
+## 🚀 How to Run ?
 
-1. **Clone the repository** (or download the source code):
-   ```bash
-   git clone [https://github.com/saddab-ansari/CLI-Expense-Tracker.git](https://github.com/saddab-ansari/CLI-Expense-Tracker.git)
+**Just Download the Program, Fire up your VScode and run it!**
+
+## 📂 File Structure
+* `expense.c` — The main source code containing all logic and UI.
+* `expenses.txt` — Automatically generated database file storing the expense history.
+
+---
+
+## 👤 Author
+**Saddab Sabir Ansari**  
+*IT Engineering | MMCOE*  
+*Course:* EEL Final Project (Semester 1) - December 2025  
+
+**Connect with me:**   
+💻 [GitHub](https://github.com/saddab-ansari) | 💼 [LinkedIn](www.linkedin.com/in/saddab-ansari) | 💻 [Email](saddabansari254@gmail.com))
