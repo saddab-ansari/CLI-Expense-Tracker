@@ -32,7 +32,7 @@ A comprehensive console-based application developed in **C** to help users track
 ---
 
 ## 👤 Author
-**Saddab Sabir Ansari**  
+**Saddab Sabir Ansari**  (Solo Developer)
 *IT Engineering | MMCOE*  
 *Course:* EEL Final Project (Semester 1) - December 2025  
 
