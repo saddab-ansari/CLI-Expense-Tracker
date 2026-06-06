@@ -25,7 +25,7 @@ A comprehensive console-based application developed in **C** to help users track
 
 **Just Download the Program, Fire up your VScode and run it!**
 
-## 📂 File Structure
+## 📂 File Structure_
 * `expense.c` — The main source code containing all logic and UI.
 * `expenses.txt` — Automatically generated database file storing the expense history.
 
