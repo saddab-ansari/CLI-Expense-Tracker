@@ -31,6 +31,8 @@ A comprehensive console-based application developed in **C** to help users track
 
 ---
 
+Note: Group Info.txt lists team members for college submission purposes. All code was written solely by Saddab Ansari.
+
 ## 👤 Author
 **Saddab Sabir Ansari**  (Solo Developer)
 *IT Engineering | MMCOE*  
